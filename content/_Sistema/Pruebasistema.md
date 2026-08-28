@@ -6,6 +6,7 @@ tipo:
 area:
   - termodinamica
 estado: publicado
+publish: true
 ---
 **Las reglas de uso de este Frontmatter:**
 

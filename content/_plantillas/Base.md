@@ -1,12 +1,13 @@
 ---
-title: "<% tp.file.title %>"
+title: <% tp.file.title %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
-tipo: 
+tipo:
   - nulo
-area: 
+area:
   - nulo
 estado: 🥚 boceto
 publish: false
+comments: false
 ---
 **Las reglas de uso de este Frontmatter:**
 

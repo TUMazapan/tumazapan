@@ -1,5 +1,6 @@
 ---
 title: Hub Epistemológico
+publish: true
 ---
 
 > "La virtud no reside en la contemplación de la idea, sino en la precisión de su ejecución."
