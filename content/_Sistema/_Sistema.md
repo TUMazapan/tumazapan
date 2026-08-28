@@ -1,9 +1,9 @@
 ---
-title: Hub Epistemológico
+title: Sistema
 tipo: sistema
-area: filosofia
 estado: publicado
 publish: true
+comments:
 ---
 
 hhghghghdhg

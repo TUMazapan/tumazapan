@@ -1,8 +1,8 @@
 ---
-title: Hub Epistemológico
+title: Tesis
 tipo: sistema
-area: filosofia
 estado: publicado
 publish: true
+comments: false
 ---
 fsdhsdghsghsghgshgs
