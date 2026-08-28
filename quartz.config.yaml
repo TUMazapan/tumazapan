@@ -208,11 +208,16 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: "@quartz-community/comments"
+  - source: github:quartz-community/comments
     enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: jackyzha0/quartz
+        repoId: R_kgDOUGIPHA
+        category: Announcements
+        categoryId: DIC_kwDOUGIPHM4DEY-X
+        lang: en
     layout:
       position: afterBody
       priority: 10
