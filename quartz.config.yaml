@@ -53,7 +53,7 @@ plugins:
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
     options:
-      theme:
+      :
         light: github-light
         dark: github-dark
       keepBackground: false
@@ -101,10 +101,10 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: false
+    enabled: true
     options:
-      theme: claude-paper
-      mode: both
+      theme: "claude-paper"
+      mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
