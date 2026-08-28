@@ -6,6 +6,7 @@ tipo:
 area: 
   - nulo
 estado: 🥚 boceto
+publish: false
 ---
 **Las reglas de uso de este Frontmatter:**
 
