@@ -3,7 +3,6 @@ title: Sistema
 tipo: sistema
 estado: publicado
 publish: true
-comments:
+comments: false
 ---
-
-hhghghghdhg
+gfgsfdgsfgsfgsdfg
