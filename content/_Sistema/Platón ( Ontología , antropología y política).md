@@ -49,7 +49,7 @@ Del dualismo se siguen dos relaciones lógicas complementarias, no una sola:
 
 Platón formaliza esta doble relación con una construcción geométrica: el símil de la línea, al final del libro VI de la *República* (509d–511e). Se traza una línea y se la divide en dos segmentos desiguales —uno para lo sensible, otro para lo inteligible— y luego cada segmento se subdivide en la misma proporción. La condición que impone es una proporción, no una metáfora: `AD:DC :: AC:CB` — el segmento inferior es al superior, dentro de cada mitad, como la imagen es a su original. Es decir, la relación de copia a modelo se repite de manera autosimilar en cada nivel de la línea, y esa misma proporción es la que organiza a la vez la ontología (grados de ser) y la epistemología (grados de conocimiento).
 
-![[linea-dividida.svg]]
+![Símil de la línea dividida](_assets/linea-dividida.svg)
 
 Sobre las relaciones entre las Ideas mismas —no ya entre Ideas y cosas—, Platón usa en diálogos posteriores como el *Sofista* el término *koinonía* ("comunión"): ciertos géneros supremos (el Ser, el Movimiento, el Reposo, lo Mismo, lo Otro) se combinan entre sí según reglas, del mismo modo en que unas letras se combinan y otras no. Es un anticipo, dentro de la propia obra de Platón, de una lógica de las relaciones entre conceptos.
 
@@ -112,7 +112,7 @@ El dualismo ontológico y el epistemológico se repiten, a escala individual, co
 **Dinámica del sistema:**
 Mientras el alma permanece en la región supraceleste contempla directamente las Ideas. Cuando el caballo negro se impone, su peso arrastra el carro hacia abajo, el alma pierde las alas y cae, quedando atrapada en un cuerpo que funciona como su cárcel. A partir de ahí, el alma "olvida" lo que contempló, y solo puede recuperarlo mediante un proceso activo de reminiscencia. La vida encarnada es un proceso de purificación: liberarse progresivamente del peso del cuerpo mediante la virtud y la filosofía.
 
-![[carro-alado.svg]]
+![Mito del carro alado](_assets/carro-alado.svg)
 ### 3.3 El alma tripartita y su correlato político
 En la *República* (libro IV), Platón usa esta tripartición para definir la justicia individual: un alma es justa cuando cada una de sus tres partes cumple su función propia y la razón gobierna sobre las otras dos. A cada parte del alma le corresponde una virtud propia:
 
@@ -122,7 +122,8 @@ En la *República* (libro IV), Platón usa esta tripartición para definir la ju
 
 Esta correspondencia entre partes del alma y virtudes es exactamente la que reproduce, a escala de ciudad, la estructura de clases de la pólis ideal, como resume el siguiente esquema:
 
-![[gemini-svg.svg]]
+![Pirámide del alma y la polis](_assets/gemini-svg.svg)
+
 Esta analogía —el alma como "ciudad pequeña" y la ciudad como "alma en grande"— es el puente que Platón usa deliberadamente para pasar de la antropología a la política.
 
 ---
@@ -161,7 +162,9 @@ En los libros VIII y IX, Platón describe cómo la *Kallípolis* se degrada prog
 *   **Tiranía:** El régimen más injusto. El exceso de libertad democrática genera desorden, del cual surge un demagogo. El tirano es el hombre menos libre de todos, esclavo de sus propios deseos ilimitados.
 
 Lo más significativo para Platón es lo corta que resulta la distancia entre la libertad extrema de la democracia y la esclavitud extrema de la tiranía. La conclusión es ineludible: gobernar según el placer o el apetito es, estructuralmente, la definición misma de la injusticia.
-![[ciclo-regimenes.svg]]
+
+![Degeneración de los regímenes](_assets/ciclo-regimenes.svg)
+
 ---
 
 > [!info] Conclusión
