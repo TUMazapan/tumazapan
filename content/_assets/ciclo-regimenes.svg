@@ -1,0 +1,60 @@
+<svg viewBox="0 0 900 1000" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="900" height="1000" fill="#0a0e1f"/>
+
+  <text x="450" y="50" text-anchor="middle" fill="#ffffff" font-size="30" font-weight="800" letter-spacing="1">LA DEGENERACIÓN DE LOS REGÍMENES</text>
+  <text x="450" y="76" text-anchor="middle" fill="#f0a83c" font-size="16" font-weight="600">Platón, República, Libros VIII&#8211;IX (544c y ss.)</text>
+
+  <defs>
+    <marker id="dArrow" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#f0a83c"/>
+    </marker>
+  </defs>
+
+  <!-- Aristocracia -->
+  <rect x="150" y="105" width="600" height="95" rx="10" fill="#eeeeee"/>
+  <text x="450" y="135" text-anchor="middle" fill="#111111" font-size="19" font-weight="800">ARISTOCRACIA (Kallípolis)</text>
+  <text x="450" y="157" text-anchor="middle" fill="#333333" font-size="12">valor supremo: la SABIDURÍA &#8212; gobiernan los filósofos-reyes</text>
+  <text x="450" y="175" text-anchor="middle" fill="#333333" font-size="12">alma dominante: la razón (logistikón) &#8212; único régimen plenamente justo</text>
+
+  <line x1="450" y1="200" x2="450" y2="235" stroke="#f0a83c" stroke-width="3" marker-end="url(#dArrow)"/>
+  <text x="470" y="222" fill="#f0a83c" font-size="11" font-style="italic">discordia entre los guardianes; declive de la educación</text>
+
+  <!-- Timocracia -->
+  <rect x="150" y="240" width="600" height="95" rx="10" fill="#d9d9d9"/>
+  <text x="450" y="270" text-anchor="middle" fill="#111111" font-size="19" font-weight="800">TIMOCRACIA (Timarquía)</text>
+  <text x="450" y="292" text-anchor="middle" fill="#333333" font-size="12">valor supremo: el HONOR y la victoria militar &#8212; gobiernan guerreros</text>
+  <text x="450" y="310" text-anchor="middle" fill="#333333" font-size="12">alma dominante: parte irascible (thymós) &#8212; ejemplo histórico: Esparta y Creta</text>
+
+  <line x1="450" y1="335" x2="450" y2="370" stroke="#f0a83c" stroke-width="3" marker-end="url(#dArrow)"/>
+  <text x="470" y="357" fill="#f0a83c" font-size="11" font-style="italic">codicia oculta tras el prestigio militar</text>
+
+  <!-- Oligarquia -->
+  <rect x="150" y="375" width="600" height="95" rx="10" fill="#bdbdbd"/>
+  <text x="450" y="405" text-anchor="middle" fill="#111111" font-size="19" font-weight="800">OLIGARQUÍA</text>
+  <text x="450" y="427" text-anchor="middle" fill="#222222" font-size="12">valor supremo: la RIQUEZA &#8212; gobiernan los más ricos (censo)</text>
+  <text x="450" y="445" text-anchor="middle" fill="#222222" font-size="12">alma dominante: apetitos "necesarios" &#8212; nace la desigualdad y el resentimiento</text>
+
+  <line x1="450" y1="470" x2="450" y2="505" stroke="#f0a83c" stroke-width="3" marker-end="url(#dArrow)"/>
+  <text x="470" y="492" fill="#f0a83c" font-size="11" font-style="italic">pobres y desposeídos se rebelan contra los ricos</text>
+
+  <!-- Democracia -->
+  <rect x="150" y="510" width="600" height="95" rx="10" fill="#9c9c9c"/>
+  <text x="450" y="540" text-anchor="middle" fill="#111111" font-size="19" font-weight="800">DEMOCRACIA</text>
+  <text x="450" y="562" text-anchor="middle" fill="#151515" font-size="12">valor supremo: la LIBERTAD absoluta &#8212; gobierna la mayoría, cargos por sorteo</text>
+  <text x="450" y="580" text-anchor="middle" fill="#151515" font-size="12">alma dominante: apetitos "innecesarios" en pie de igualdad &#8212; se desprecia el saber experto</text>
+
+  <line x1="450" y1="605" x2="450" y2="640" stroke="#c0392b" stroke-width="3" marker-end="url(#dArrow)"/>
+  <text x="470" y="627" fill="#c0392b" font-size="11" font-style="italic">el exceso de libertad genera caos; surge un demagogo protector</text>
+
+  <!-- Tirania -->
+  <rect x="150" y="645" width="600" height="105" rx="10" fill="#2b2b2b" stroke="#c0392b" stroke-width="2"/>
+  <text x="450" y="678" text-anchor="middle" fill="#ffffff" font-size="19" font-weight="800">TIRANÍA</text>
+  <text x="450" y="700" text-anchor="middle" fill="#e6b8b8" font-size="12">valor supremo: el PODER ABSOLUTO de uno solo &#8212; el tirano</text>
+  <text x="450" y="718" text-anchor="middle" fill="#e6b8b8" font-size="12">alma dominante: apetitos tiránicos, sin límite &#8212; de la libertad extrema</text>
+  <text x="450" y="736" text-anchor="middle" fill="#e6b8b8" font-size="12">a la esclavitud extrema: el régimen más injusto y más infeliz</text>
+
+  <text x="450" y="800" text-anchor="middle" fill="#dddddd" font-size="13" font-style="italic">Cada régimen engendra al siguiente por el vicio que deja crecer sin freno;</text>
+  <text x="450" y="822" text-anchor="middle" fill="#dddddd" font-size="13" font-style="italic">en todos falta lo mismo: que cada parte del alma y de la ciudad cumpla su función propia (justicia).</text>
+
+  <text x="450" y="960" text-anchor="middle" fill="#777777" font-size="12">Elaboración propia a partir de República, Libros VIII&#8211;IX</text>
+</svg>

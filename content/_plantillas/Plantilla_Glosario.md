@@ -1,17 +1,15 @@
 ---
-title: <% tp.file.title %>
+title: "<% tp.file.title %>"
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
-tipo:
-  - nulo
-area:
-  - nulo
+tipo: glosario
+area: nulo
 estado: 🥚 boceto
 publish: false
-comments: false
+comments: true
 ---
 **Las reglas de uso de este Frontmatter:**
 
-- **`tipo:`** Aquí es donde ocurre la magia. Deberás borrar "nulo" y obligarte a categorizar la nota en uno de los tres pilares: `tesis`, `sistema`, o `praxis`. No puede haber superposición. Si una nota intenta ser las tres cosas a la vez, es que no la has razonado lo suficiente y debes dividirla.
+- **`tipo:`** Aquí es donde ocurre la magia. Deberás borrar "nulo" y obligarte a categorizar la nota en uno de los tres pilares: `tesis`, `sistema`, o `praxis` , `glosario`. No puede haber superposición. Si una nota intenta ser las tres cosas a la vez, es que no la has razonado lo suficiente y debes dividirla.
     
 - **`area:`** Son las disciplinas transversales (ej. `termodinamica`, `audio`, `economia`, `programacion`).
     

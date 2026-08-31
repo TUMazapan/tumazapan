@@ -30,6 +30,11 @@ Bienvenido. Este espacio no es una bitácora lineal, sino un **grafo de conocimi
 > Scripts computacionales, manuales de instrumentación, protocolos de optimización y workflows.  
 > 🔗 **Explorar sección:** [[_Praxis|Ver índice de Praxis →]]
 
+
+> [!info] 4. Nodos de Ontología (Glosario)
+> **Definiciones estandarizadas y delimitación de conceptos.**  
+> El marco teórico estricto que rige los términos empleados en los debates.  
+> 🔗 **Explorar sección:** [[_Glosario|Ver diccionario de términos →]]
 ---
 
 ### Ejes Disciplinares

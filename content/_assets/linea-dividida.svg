@@ -1,0 +1,69 @@
+<svg viewBox="0 0 1000 560" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <linearGradient id="segGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7d7d7d"/>
+      <stop offset="100%" stop-color="#e9e9e9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="1000" height="560" fill="#0a0e1f"/>
+
+  <!-- title -->
+  <text x="500" y="55" text-anchor="middle" fill="#ffffff" font-size="34" font-weight="800" letter-spacing="1">LA LÍNEA DIVIDIDA</text>
+  <text x="500" y="82" text-anchor="middle" fill="#f0a83c" font-size="17" font-weight="600">Platón, República, Libro VI, 509d&#8211;511e</text>
+
+  <!-- top brackets: sensible / inteligible -->
+  <text x="245" y="130" text-anchor="middle" fill="#f0a83c" font-size="19" font-weight="700">MUNDO SENSIBLE</text>
+  <text x="245" y="152" text-anchor="middle" fill="#cfcfcf" font-size="13">(horatón &#8211; opinión / doxa)</text>
+
+  <text x="720" y="130" text-anchor="middle" fill="#f0a83c" font-size="19" font-weight="700">MUNDO INTELIGIBLE</text>
+  <text x="720" y="152" text-anchor="middle" fill="#cfcfcf" font-size="13">(noetón &#8211; ciencia / episteme)</text>
+
+  <!-- bracket lines -->
+  <path d="M 70 165 L 70 175 L 420 175 L 420 165" fill="none" stroke="#f0a83c" stroke-width="2"/>
+  <path d="M 440 165 L 440 175 L 970 175 L 970 165" fill="none" stroke="#f0a83c" stroke-width="2"/>
+
+  <!-- the divided line: 4 unequal segments -->
+  <!-- x positions: 70-190 (eikasia,120) 190-420(pistis,230) 440-650(dianoia,210) 650-970(noesis,320) -->
+  <rect x="70"  y="220" width="120" height="70" fill="#5a5a5a" stroke="#0a0e1f" stroke-width="2"/>
+  <rect x="190" y="220" width="230" height="70" fill="#8a8a8a" stroke="#0a0e1f" stroke-width="2"/>
+  <rect x="440" y="220" width="210" height="70" fill="#bdbdbd" stroke="#0a0e1f" stroke-width="2"/>
+  <rect x="650" y="220" width="320" height="70" fill="#eeeeee" stroke="#0a0e1f" stroke-width="2"/>
+
+  <!-- segment labels -->
+  <text x="130" y="260" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="800">EIKASÍA</text>
+  <text x="305" y="260" text-anchor="middle" fill="#111111" font-size="16" font-weight="800">PISTIS</text>
+  <text x="545" y="260" text-anchor="middle" fill="#111111" font-size="16" font-weight="800">DIANOIA</text>
+  <text x="810" y="260" text-anchor="middle" fill="#111111" font-size="16" font-weight="800">NOESIS</text>
+
+  <!-- proportion annotation -->
+  <text x="500" y="200" text-anchor="middle" fill="#f0a83c" font-size="13" font-style="italic">AD : DC :: AC : CB &#8212; cada segmento es a su vecino como la imagen es a su original (methexis)</text>
+
+  <!-- descriptions below -->
+  <text x="130" y="325" text-anchor="middle" fill="#dddddd" font-size="12">imágenes,</text>
+  <text x="130" y="340" text-anchor="middle" fill="#dddddd" font-size="12">sombras, reflejos</text>
+
+  <text x="305" y="325" text-anchor="middle" fill="#dddddd" font-size="12">objetos físicos,</text>
+  <text x="305" y="340" text-anchor="middle" fill="#dddddd" font-size="12">seres vivos, artefactos</text>
+
+  <text x="545" y="325" text-anchor="middle" fill="#dddddd" font-size="12">entes matemáticos,</text>
+  <text x="545" y="340" text-anchor="middle" fill="#dddddd" font-size="12">apoyados en imágenes sensibles</text>
+
+  <text x="810" y="325" text-anchor="middle" fill="#dddddd" font-size="12">las Ideas mismas,</text>
+  <text x="810" y="340" text-anchor="middle" fill="#dddddd" font-size="12">sin apoyo sensible (dialéctica)</text>
+
+  <!-- doxa / episteme lower brackets -->
+  <path d="M 70 375 L 70 385 L 420 385 L 420 375" fill="none" stroke="#888888" stroke-width="2"/>
+  <text x="245" y="405" text-anchor="middle" fill="#aaaaaa" font-size="14" font-weight="700">DOXA (opinión)</text>
+
+  <path d="M 440 375 L 440 385 L 970 385 L 970 375" fill="none" stroke="#888888" stroke-width="2"/>
+  <text x="705" y="405" text-anchor="middle" fill="#aaaaaa" font-size="14" font-weight="700">EPISTEME (ciencia)</text>
+
+  <!-- apex: idea del bien -->
+  <circle cx="960" cy="220" r="0" fill="none"/>
+  <text x="810" y="460" text-anchor="middle" fill="#f0a83c" font-size="15" font-weight="700">en la cúspide de la Noesis: la IDEA DEL BIEN</text>
+  <text x="810" y="480" text-anchor="middle" fill="#cfcfcf" font-size="12">(principio de todo ser y de todo conocer &#8212; Rep. 508e&#8211;509b)</text>
+
+  <text x="500" y="530" text-anchor="middle" fill="#777777" font-size="12">Elaboración propia a partir de República VI, 509d&#8211;511e</text>
+</svg>

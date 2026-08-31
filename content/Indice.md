@@ -17,8 +17,8 @@ Bienvenido. Este no es un blog, es un grafo de conocimiento estructurado en tres
 
 ```dataview
 TABLE date as "Fecha", area as "Disciplina"
-FROM "_Praxis"
-WHERE contains(tipo, "tesis") AND contains(publish, "true")
+FROM "_Tesis"
+WHERE contains(tipo, "tesis") AND contains(estado, "publicado")
 SORT date desc
 LIMIT 10
 ```
@@ -32,7 +32,7 @@ Fragmento de código
 ```dataview
 TABLE date as "Fecha", area as "Disciplina"
 FROM "_Sistema"
-WHERE contains(tipo, "sistema") AND contains(publish, "true")
+WHERE contains(tipo, "sistema") AND contains(estado, "publicado")
 SORT date desc
 LIMIT 10
 ```
@@ -46,7 +46,7 @@ Fragmento de código
 ```dataview
 TABLE date as "Fecha", area as "Disciplina"
 FROM "_Praxis"
-WHERE contains(tipo, "praxis") AND contains(publish, "true")
+WHERE contains(tipo, "praxis") AND contains(estado, "publicado")
 SORT date desc
 LIMIT 10
 ```
