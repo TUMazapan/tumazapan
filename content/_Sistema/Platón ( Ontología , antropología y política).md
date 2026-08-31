@@ -1,5 +1,5 @@
 ---
-title: Pruebasistema
+title: Platón ( Ontología , antropología y política)
 date: 2026-08-27
 tipo:
   - sistema
