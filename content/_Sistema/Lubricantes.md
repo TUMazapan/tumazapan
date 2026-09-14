@@ -13,4 +13,6 @@ tags:
   - IQ
   - ingenieria_quimica
 ---
-![InvestigacionPrincipiosAdmin-Lubricantes-2026-09-13](../_assets/InvestigacionPrincipiosAdmin-Lubricantes-2026-09-13.pdf)
+<iframe src="/_assets/InvestigacionPrincipiosAdmin-Lubricantes-2026-09-13.pdf" width="100%" height="700px" style="border:none;"></iframe>
+
+¿No carga? [Descárgalo aquí](../_assets/InvestigacionPrincipiosAdmin-Lubricantes-2026-09-13.pdf).
