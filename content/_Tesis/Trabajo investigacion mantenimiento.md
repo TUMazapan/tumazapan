@@ -1,8 +1,8 @@
 ---
-title: Sin título
+title: Trabajo investigacion mantenimiento
 date: 2026-09-13
 tipo: tesis
-area: Mantenimiento, 
+area: Mantenimiento,
 estado: publicado
 publish: true
 comments: true
