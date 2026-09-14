@@ -10,3 +10,5 @@ comments: true
 <iframe src="/_assets/InvestigacionPrincipiosAdmin-Trabajo-de-investigacion-2026-09-13.pdf" width="100%" height="700px" style="border:none;"></iframe>
 
 ¿No carga? [Descárgalo aquí](../_assets/InvestigacionPrincipiosAdmin-Trabajo-de-investigacion-2026-09-13.pdf).
+
+
