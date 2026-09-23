@@ -1,7 +1,7 @@
 ---
 title: Trabajo investigacion mantenimiento
 date: 2026-09-13
-tipo: tesis
+tipo: praxis
 area: Mantenimiento,
 estado: publicado
 publish: true

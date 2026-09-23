@@ -1,7 +1,7 @@
 ---
 title: Problemas de transferencia de calor
 date: 2026-09-13
-tipo: tesis
+tipo: praxis
 area: Fenomenos de transporte
 estado: publicado
 publish: true

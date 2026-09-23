@@ -34,8 +34,21 @@ Bienvenido. Este espacio no es una bitácora lineal, sino un **grafo de conocimi
 > [!info] 4. Nodos de Ontología (Glosario)
 > **Definiciones estandarizadas y delimitación de conceptos.**  
 > El marco teórico estricto que rige los términos empleados en los debates.  
-> 🔗 **Explorar sección:** [[_Glosario|Ver diccionario de términos →]]
+> 🔗 **Explorar sección:** [[_Glosario/_Glosario|Ver diccionario de términos →]]
+
+> [!note] 5. Nodos de Folletos (Documentos)
+> **Material de referencia externo y documentación recibida.**
+> Folletos IQ, brochures institucionales y recursos de consulta archivados en PDF.
+> 🔗 **Explorar sección:** [[Folletos/_Folletos|Ver folletos →]]
+
 ---
+5. **Nodos de Folletos (Documentos)**
+
+Material de referencia externo y documentación recibida.
+Folletos IQ, brochures institucionales y recursos de consulta archivados en PDF.
+
+🔗 **Explorar sección:** [Ver folletos →](Folletos/_Folletos)
+
 
 ### Ejes Disciplinares
 
