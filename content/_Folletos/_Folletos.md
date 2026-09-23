@@ -1,5 +1,5 @@
 ---
-title: Nodos de Praxis
+title: Nodos de folletos
 publish: true
 comments: false
 ---
