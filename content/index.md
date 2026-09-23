@@ -39,7 +39,7 @@ Bienvenido. Este espacio no es una bitácora lineal, sino un **grafo de conocimi
 > [!note] 5. Nodos de Folletos (Documentos)
 > **Material de referencia externo y documentación recibida.**
 > Folletos IQ, brochures institucionales y recursos de consulta archivados en PDF.
-> 🔗 **Explorar sección:** [[Folletos/_Folletos|Ver folletos →]]
+> 🔗 **Explorar sección:** [[_Folletos/_Folletos|Ver folletos →]]
 
 ---
 5. **Nodos de Folletos (Documentos)**
